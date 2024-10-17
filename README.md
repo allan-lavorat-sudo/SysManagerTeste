@@ -49,3 +49,16 @@ Este projeto utiliza várias tecnologias e ferramentas para criar um pipeline de
    ```bash
    git clone https://github.com/allan-lavorat-sudo/SysManagerTeste.git
    cd SysManagerTeste
+Suba os containers do Docker:
+
+bash
+
+Copiar
+docker-compose up --build
+Acesse o Airflow:
+
+Abra o navegador e vá para http://localhost:8080.
+
+Verifique o Jenkins:
+
+Abra o navegador e vá para http://localhost:8080 para acessar o Jenkins.
